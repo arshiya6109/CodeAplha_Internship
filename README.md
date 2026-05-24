@@ -1,1 +1,1 @@
-# CodeAplha_HangmanGame
+# CodeAplha_Internship
